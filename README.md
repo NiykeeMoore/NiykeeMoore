@@ -8,28 +8,39 @@ I love making something that people will use later and me included. The beauty o
 
 * 🌍  I'm based in Moscow
 * ✈️  You can contact me at [Telegram](https://t.me/berleedimma)
-* 🧠  I'm learning right now SwiftUI + Combine
 
 ### Skills
 
-🥇 Patterns: MVC, MVP, MVVM, Clean architecture
+### 🥇 Patterns
+- MVC, MVP, MVVM, VIPER, Clean architecture
 
-💫 DP: SwiftPM, CoocaPods
+### 💫 Dependency Managers
+- SwiftPM, CocoaPods
 
-📱 UI: code layout (UIKit, SwiftUI), AutoLayout, InterfaceBuilder
+### 📱 UI
+- Code layout (UIKit, SwiftUI)
+- AutoLayout
+- Interface Builder
 
-🚀 Network: URLSession, Swagger
+### 🚀 Network
+- URLSession
+- Swagger
 
-🗄 Data: CoreData, UserDefaults, Keychain, FileMananger
+### 🗄 Data
+- CoreData
+- UserDefaults
+- Keychain
+- FileManager
 
-🧐 Code style: SwiftLint (Tinkoff)
+### 🧐 Code Style
+- SwiftLint
 
-🌟 Tests: Unit-test, UI-test, snapshot-test
+### 🌟 Tests
+- Unit-test
+- UI-test
+- Snapshot-test
 
-⚙️ Tools: Figma, Proximan, Postman, Charles, Jira, Trello
+### ⚙️ Tools
+- Figma, Proximan, Postman, Charles, Jira, Trello
 
 ---
-
-## 📌 Закреплённые проекты:
-### [Tracker](https://github.com/NiykeeMoore/Tracker)  
-Приложение для управления привычками и кастомными UI элементами.
